@@ -7,11 +7,11 @@ Da eine computergestütze Gattungsattribution von Lyrik und Epik im Vergleich, a
 
 ![wordcloud_ballade](https://github.com/piahh/stilo_lyric_ballads/blob/main/results/datenexploration/angepasst/wordcloud_ballade_angepasst.png)
 
-Wordcloud des Balladenkorpuses.
+Wordcloud des Balladenkorpus.
 
 ![wordcloud_lied](https://github.com/piahh/stilo_lyric_ballads/blob/main/results/datenexploration/angepasst/wordcloud_lyrik_angepasst.png)
 
-Wordcloud des Liederkorpuses.
+Wordcloud des Lxrikkorpus.
 
 
 ## Herangehensweise
