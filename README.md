@@ -11,7 +11,7 @@ Wordcloud des Balladenkorpus.
 
 ![wordcloud_lied](https://github.com/piahh/stilo_lyric_ballads/blob/main/results/datenexploration/angepasst/wordcloud_lyrik_angepasst.png)
 
-Wordcloud des Lxrikkorpus.
+Wordcloud des Lyrikkorpus.
 
 
 ## Herangehensweise
